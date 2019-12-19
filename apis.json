@@ -1,0 +1,61 @@
+{
+    "name": "Achievers",
+    "description": "Achievers offers employee recognition that\u2019s changing the way the world works.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28743-www-achievers-com.jpg",
+    "tags": [
+        "have api",
+        "human resources",
+        "no api definition"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/achievers\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Achievers",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28743-www-achievers-com.jpg",
+            "humanURL": "https:\/\/www.achievers.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/achievers-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/achievers"
+        },
+        {
+            "type": "Email",
+            "url": "experts@achievers.com"
+        },
+        {
+            "type": "Email",
+            "url": "memberexperience@achievers.com"
+        },
+        {
+            "type": "Email",
+            "url": "Privacy.Office@Achievers.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@achievers.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Achievers"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.achievers.com"
+        }
+    ]
+}
